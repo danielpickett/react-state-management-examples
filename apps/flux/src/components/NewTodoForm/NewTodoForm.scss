@@ -1,0 +1,17 @@
+.NewTodoForm {
+  &__form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  &__label {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  &__text-input {
+    padding: 0.5rem;
+  }
+}
